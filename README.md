@@ -1,5 +1,5 @@
 ## Public version of the source code
-This repo is a public version of the source code for the [New Zealand Trade Intelligence Dashboard](tradeintelligence.mbie.govt.nz). The Dashboard is built with R, JavaScript and Shiny. If you got this far, we have to assume you can look after yourself with R and navigating this GitHub repo; we can’t give detailed guidance or help. We won’t be accepting pull requests, and the issues tab in this repo will not be closely monitored.
+This repo is a public version of the source code for the [New Zealand Trade Intelligence Dashboard](http://tradeintelligence.mbie.govt.nz). The Dashboard is built with R, JavaScript and Shiny. If you got this far, we have to assume you can look after yourself with R and navigating this GitHub repo; we can’t give detailed guidance or help. We won’t be accepting pull requests, and the issues tab in this repo will not be closely monitored.
 
 The app itself is contained in the `./shiny/` folder and can be run from the root directory with:
 
